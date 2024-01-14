@@ -1,10 +1,12 @@
 ---
 layout: article
-titles:
+titles: 
 key: page-about
+article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg
 ---
-
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 实践是检验真理的唯一标准
 
