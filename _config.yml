@@ -71,10 +71,10 @@ paths:
 ## => Post
 ##############################
 ## excerpt
-excerpt_separator: <!--more-->
+excerpt_separator: 
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license:  # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
