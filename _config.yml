@@ -20,7 +20,7 @@ text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 张驰博客
+title   : java技术宝库
 description: > # this means to ignore newlines until "Language & timezone"
   实践是检验真理的唯一标准
 
@@ -38,7 +38,7 @@ author:
   name      : 张驰
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : 做大，做强
+  bio       : 汇总解决java中的许多技术问题的方法
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
