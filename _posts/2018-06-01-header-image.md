@@ -7,6 +7,7 @@ article_header:
     src: /screenshot.jpg
 ---
 
+{%- include extensions/bilibili.html id='11091080' -%}
 A Post with Header Image, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
 
 <!--more-->
