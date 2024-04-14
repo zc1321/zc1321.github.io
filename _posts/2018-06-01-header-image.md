@@ -3,10 +3,7 @@ title: 开始创建你的第一个java程序吧！
 tags: 张驰
 article_header:
   type: cover
-  image:
-    src: /screenshot.jpg
 ---
 <div>{%- include extensions/youtube.html id='H_XxH66lm3U' -%}</div>
-A Post with Header Image, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
-
+开始你的java之旅吧！！！-2024/4/14(处在迷茫中的我)
 <!--more-->
