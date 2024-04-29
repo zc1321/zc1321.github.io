@@ -5,7 +5,9 @@ tags: 张驰
 ---
 1.域名
     (1).不需要解析域名(直接转发)
+        <!--more-->
        网址: https://www.site.ac/ 
+       <!--more-->
    （2).需要解析域名
        https://customer.l53.net/
 <!--more-->
@@ -14,6 +16,7 @@ tags: 张驰
 <!--more-->
 3.ssl证书获取
    （1）https://ohttps.com/monitor/dashboard
+   
    （2）Tomcat 实现 HTTPS 访问(开放443端口)
        https://www.cnblogs.com/54chensongxia/p/13754839.html
    （3）tomcat的ssl证书格式为JKS 或 PFX(推荐使用)
