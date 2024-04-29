@@ -15,7 +15,8 @@ tags: 张驰
        
 <!--more-->
 2.域名解析 
-      https://dash.cloudflare.com/login 
+
+   https://dash.cloudflare.com/login 
 <!--more-->
 3.ssl证书获取 
 
@@ -33,6 +34,7 @@ tags: 张驰
 （1）国内阿里云或腾讯云都可以但需要备案 
 
 （2）国外https://linuxone.cloud.marist.edu/#/index 
+
 结果：
 https://springboot.onflashdrive.app
 <!--more-->
