@@ -20,7 +20,9 @@ tags: 张驰
 <!--more-->
 3.ssl证书获取 
 
-   （1）https://ohttps.com/monitor/dashboard 
+   （1）证书获取  
+   
+        https://ohttps.com/monitor/dashboard 
    
    （2）Tomcat 实现 HTTPS 访问(开放443端口) 
    
@@ -35,11 +37,15 @@ tags: 张驰
 
 （1）国内阿里云或腾讯云都可以但需要备案 
 
-（2）国外https://linuxone.cloud.marist.edu/#/index 
+（2）国外
 
-结果：
-https://springboot.onflashdrive.app
+     https://linuxone.cloud.marist.edu/#/index 
+
+结果
+
+     https://springboot.onflashdrive.app
 <!--more-->
 
 
 ---
+
