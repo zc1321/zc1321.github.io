@@ -15,7 +15,7 @@ tags: 张驰
        
    (3).检测域名是否有效
 
-       https://whois.west.cn/
+       https://whois.west.cn/ 
 2.域名解析 
 
     https://dash.cloudflare.com/login 
