@@ -5,14 +5,17 @@ tags: 张驰
 ---
 1.域名 
     
-  (1).不需要解析域名(直接转发) 
+   (1).不需要解析域名(直接转发) 
       
        https://www.site.ac/ 
        
   （2).需要解析域名 
-   
-       https://customer.l53.net/ 
        
+       https://customer.l53.net/ (无用） https://www.namesilo.com/ 
+       
+   (3).检测域名是否有效
+
+       https://whois.west.cn/
 2.域名解析 
 
     https://dash.cloudflare.com/login 
@@ -39,10 +42,6 @@ tags: 张驰
 （2）国外
 
      https://linuxone.cloud.marist.edu/#/index 
-
-结果
-
-     https://springboot.onflashdrive.app 
 
 
 
