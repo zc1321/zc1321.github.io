@@ -1,6 +1,8 @@
 ---
 title: 开始创建你的第一个java程序吧！
 tags: 张驰
+key: 2018-06-06-new-template
+mathjax: true
 article_header:
   type: cover
 ---
