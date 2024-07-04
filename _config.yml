@@ -223,3 +223,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+footer:
+  # 关闭版权信息
+  powered: false
+  # 关闭主题信息
+  theme: false
+  # 自定义底部信息
+  custom:
+    - <a href="https://example.com">Your Name</a>
