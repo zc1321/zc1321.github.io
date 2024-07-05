@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 
+titles: friends
 key: page-about
 article_header:
   type: cover
