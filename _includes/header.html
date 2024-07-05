@@ -8,6 +8,8 @@
     <div class="main">
       <div class="header__title">
         <div class="header__brand">
+          {%- assign _paths_root = site.paths.root | default: site.data.variables.default.paths.root  -%}
+          {%- include snippets/get-nav-url.html path=_paths_root -%}
           {%- if site.title -%}
             <a title="{%- if site.description -%}{{ site.description }}{%- endif -%}" href="{{ __return }}" style="font-size: 45px; font-family: fangsong;font-weight: 600;">{{ site.title }}</a>
           {%- endif -%}
