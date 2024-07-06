@@ -5,7 +5,7 @@ key: page-about
 article_header:
   type: cover
 ---
-<iframe  scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1864018608&color=%23ff5500&auto_play=true"></iframe>
+<iframe width="100%" height="300"  scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1864018608&color=%23ff5500&auto_play=true"></iframe>
 
 ![mmexport1714713546762](https://github.com/zc1321/zc1321.github.io/assets/100252069/5ea402ab-6cb0-4c31-b748-8e1ab15a193f)
 
