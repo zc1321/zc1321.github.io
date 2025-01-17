@@ -60,6 +60,7 @@
             {%- if _article.excerpt and include.show_excerpt -%}
               <div class="article__content" itemprop="description articleBody">
                 {%- if _excerpt_type == 'html' -%}
+                  <h1>aaaaaaaaaa</h1>
                   {{ _article.excerpt }}
                 {%- else -%}
                   {{ _article.excerpt | strip_html | strip | truncate: _excerpt_truncate }}
