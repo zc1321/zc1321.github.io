@@ -73,9 +73,10 @@
             console.log(document.getElementById("zc").innerText);
             if(length<=100){
               document.getElementById("zc1").style="display:none"
+              length=""
             }
-            </script>
             length=""
+            </script>
           </div>
           {%- if include.show_info -%}
             {%- include snippets/assign.html target=site.data.variables.default.page.pageview
