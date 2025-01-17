@@ -66,9 +66,13 @@
                 {%- endif -%}
               </div>
             {%- endif -%}
-            {%- if include.show_readmore -%}
+           
               <p id="zc"><a href="{{ _article_url }}">{{ _locale_readmore }}</a></p>
-            {%- endif -%}
+         <script>
+			      if(document.getElementById("zc1")!==null){
+				      document.getElementById("zc").style="display:none"
+		       	}
+	   	</script>
           </div>
           {%- if include.show_info -%}
             {%- include snippets/assign.html target=site.data.variables.default.page.pageview
