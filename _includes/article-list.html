@@ -60,20 +60,15 @@
             {%- if _article.excerpt and include.show_excerpt -%}
               <div class="article__content" itemprop="description articleBody">
                 {%- if _excerpt_type == 'html' -%}
-                  <h1>aaaaaaaaaa</h1>
                   {{ _article.excerpt }}
                 {%- else -%}
                   {{ _article.excerpt | strip_html | strip | truncate: _excerpt_truncate }}
                 {%- endif -%}
               </div>
             {%- endif -%}
-           
+            {%- if _excerpt_type == 'html' -%}
               <p id="zc"><a href="{{ _article_url }}">{{ _locale_readmore }}</a></p>
-         <script>
-			      if(document.getElementById("zc1")!==null){
-				      document.getElementById("zc").style="display:none"
-		       	}
-	   	</script>
+            {%- endif -%}
           </div>
           {%- if include.show_info -%}
             {%- include snippets/assign.html target=site.data.variables.default.page.pageview
