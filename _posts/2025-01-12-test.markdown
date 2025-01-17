@@ -4,11 +4,6 @@ title: 测试
 articles:
   excerpt_type: html
 ---
-<p>你好</p>
-<style>
-		#zc{
-			display: none;
-		}
-</style>
+
 
 ---
