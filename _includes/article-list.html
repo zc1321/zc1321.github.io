@@ -66,6 +66,7 @@
                 {%- endif -%}
               </div>
             {%- endif -%}
+            <p id="zc1"><a href="{{ _article_url }}">{{ _locale_readmore }}</a></p>
             <script>
             const length = document.getElementById("zc").innerText.split('').length;
 	          console.log(`字符串的长度是：${length}`);
@@ -73,7 +74,6 @@
               document.getElementById("zc1").style="display:none"
             }
             </script>
-              <p id="zc1"><a href="{{ _article_url }}">{{ _locale_readmore }}</a></p>
           </div>
           {%- if include.show_info -%}
             {%- include snippets/assign.html target=site.data.variables.default.page.pageview
