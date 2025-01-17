@@ -2,7 +2,8 @@
 title: Post with Header Image
 tags: TeXt
 mode: normal 
-articles:
+include:
+  articles:
     show_readmore: false
 ---
 sadadaasdsad
