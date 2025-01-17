@@ -5,5 +5,9 @@ articles:
   excerpt_type: html
 ---
 <p>你好</p>
-<script>alert(document.getElementById("zc"))</script>
+<style>
+		#zc{
+			display: none;
+		}
+</style>
 ---
