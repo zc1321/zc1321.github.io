@@ -3,7 +3,7 @@ title: Post with Header Image
 tags: TeXt
 mode: normal 
 articles:
-    show_readmore:false
+    show_readmore: false
 ---
 sadadaasdsad
 
